@@ -1,0 +1,8 @@
+{
+  "name": "mc-status-loop",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "minecraft-server-util": "^5.4.4"
+  }
+}
